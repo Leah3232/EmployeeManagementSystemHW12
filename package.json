@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "inquirer": "^8.2.0",
+        "mysql2": "^2.3.3"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "employeemanagementsystemhw12",
+    "description": "",
+    "version": "1.0.0",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Leah3232/EmployeeManagementSystemHW12.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com//issues"
+    },
+    "homepage": "https://github.com/#readme"
+}
